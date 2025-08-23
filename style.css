@@ -1,0 +1,18 @@
+body
+{
+    cursor: url('New\ Piskel.png'),auto;
+   background-color:lightpink; 
+   color: black;
+   text-align: center;
+}
+section{
+    text-align: left;
+}
+img{
+    width: "200px"
+    height= "100px"
+    
+}
+img{
+    border-radius: 12%;
+}
